@@ -1,0 +1,3 @@
+# Introduction to the Ordinances of the City of Saint Maries
+Contained herein are the ordinances of the City of Saint Maries, Idaho. These ordinances are enacted by the City Council to govern the conduct of individuals and businesses within the city limits. They cover a wide range of topics, including but not limited to zoning, public safety, health regulations, and business operations. The ordinances are designed to promote the welfare and safety of the community while ensuring that the rights of individuals are respected. It is important for residents and visitors to familiarize themselves with these ordinances to ensure compliance and contribute to the overall well-being of the city.
+

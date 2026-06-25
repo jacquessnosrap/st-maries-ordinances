@@ -1,0 +1,12 @@
+[book]
+title = "City of Saint Maries Ordinances"
+authors = []
+language = "en"
+
+[output.html]
+no-section-label = true
+sidebar-header-nav = false
+
+[output.html.fold]
+enable = true
+level = 0
